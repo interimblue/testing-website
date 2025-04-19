@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Aellul's Notebook
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a staging area for my writings in 2025. Both technical and personal themed.
