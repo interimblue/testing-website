@@ -1,5 +1,5 @@
 ---
-title: Aellul's Notebook
+title: Home
 ---
+Rough notes on technical escapades and personal musings.
 
-This is a staging area for my writings in 2025. Both technical and personal themed.
