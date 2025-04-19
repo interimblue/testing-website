@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌲 Andrew Ellul's Notebook",
+    pageTitle: "🌲 Into the forest",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Inter",
-        body: "Inter",
+        header: "Geologica",
+        body: "Geologica",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
+          secondary: "#7baa7f",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
