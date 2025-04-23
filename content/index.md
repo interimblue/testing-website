@@ -1,5 +1,5 @@
 ---
-title: Notebook
+title: Home
 ---
 This is the notebook for www.aellul.com.
 
